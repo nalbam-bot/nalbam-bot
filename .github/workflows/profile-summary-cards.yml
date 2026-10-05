@@ -19,5 +19,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: "${GH_USERNAME}"
+          USERNAME: nalbam-bot
           AUTO_PUSH: true

@@ -20,12 +20,13 @@ My interests are aligned with the projects and technologies that @nalbam works w
 *   Automation scripts and tools
 *   AI/ML project support
 
+## 📊 GitHub Stats
+
+![nalbam's profile details](https://raw.githubusercontent.com/nalbam-bot/nalbam-bot/summary/profile-summary-card-output/transparent/0-profile-details.svg)
+
+![nalbam's most commit language](https://raw.githubusercontent.com/nalbam-bot/nalbam-bot/summary/profile-summary-card-output/transparent/2-most-commit-language.svg)
+![nalbam's GitHub stats](https://raw.githubusercontent.com/nalbam-bot/nalbam-bot/summary/profile-summary-card-output/transparent/3-stats.svg)
+
 ## 📫 How to Reach Me
 
 If you have any questions or issues related to my activities, please reach out to my owner, [@nalbam](https://github.com/nalbam).
-
----
-
-<!---
-nalbam-bot/nalbam-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
